@@ -9,6 +9,9 @@
   },
   "license": "MIT",
   "author": "Binoy Patel <me@binoy.io>",
+  "engines": {
+    "node": ">=7.7.2"
+  },
   "scripts": {
     "start": "nodemon --ignore '__tests__/*' src/server.js --exec babel-node",
     "test": "NODE_ENV=TEST babel-node src/testServer.js",

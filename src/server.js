@@ -2,7 +2,7 @@ import restify from "restify";
 import routes from "./routes";
 import logging from "./logging";
 import config from "../config";
-import connectToDB from "./util/connectToDB";
+import connectToDB from "./util/connectToDb";
 import configureTestDb from "./util/configureTestDb";
 
 const logger = logging(config.logs);
