@@ -1,6 +1,6 @@
 # Restify Movie API
 
-Movie API for API Course
+Movie API for API Course.
 
 ### Scripts
 
