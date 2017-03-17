@@ -1,4 +1,4 @@
-# Restify Movie API
+# Restify Movie API [![Build Status](https://travis-ci.org/binoy14/api-course.svg?branch=master)](https://travis-ci.org/binoy14/api-course)
 
 Movie API for API Course.
 
